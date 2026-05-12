@@ -1,10 +1,9 @@
 # Website
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>The Acres Series — Shane Michael Quaker</title>
+  <title>The Acres Series </title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
   <style>
@@ -770,7 +769,7 @@
           <h3 class="branch-title">Acres</h3>
           <p class="branch-setting">Gettysburg, Pennsylvania · 19th Century &amp; Present Day</p>
           <p class="branch-body">
-            Alicia is a sharp-witted, observant teenager living on a sprawling property outside Gettysburg. She has an extraordinary gift — the ability to slip inside the consciousness of others, living or long dead, and experience their world through their own eyes. From her treehouse on the acres, she mind-travels into Russell and Abigail, two siblings navigating daily survival, fishing trips, and sibling bickering along a 19th-century Pennsylvania creek. Back in the present, Alicia juggles her wry family dynamic — her sports-obsessed brother Mason, the perpetually hungry Patrick, and her observant parents Rachel and Kyle — while quietly investigating the mystery of who vandalized her school by spelling out an "A" in forks. Sharp, funny, and layered with historical texture, <em>Acres</em> introduces a narrator unlike any other: one who watches history from the inside out.
+            Alicia is a sharp-witted, observant teenager living on a sprawling property outside Gettysburg. She has an extraordinary gift — the ability to slip inside the consciousness of others, living or long dead, and experience their world through their own eyes. From the <em>Acres</em>, she mind travels into her family tree that took root before the soldiers marched in the American Civil War. Back in the present, Alicia juggles her wry family dynamic — her sports-obsessed brother Mason, the perpetually hungry Patrick, and her observant parents Rachel and Kyle — while quietly investigating the mystery of who vandalized her school by spelling out an "A" in forks. Sharp, funny, and layered with historical texture, <em>Acres</em> introduces a narrator unlike any other: one who watches history from the inside out.
           </p>
         </div>
         <div class="branch-actions">
@@ -793,7 +792,7 @@
           <h3 class="branch-title">Scar</h3>
           <p class="branch-setting">Savannah, Georgia · The Historic District</p>
           <p class="branch-body">
-            When the family embarks on an eleven-hour road trip south to Savannah to visit Alicia's cousin Daphne, the story shifts into something richer and stranger. Alicia's mind-travel abilities deepen in Daphne's centuries-old home near the city's famous squares. She discovers a lighthouse tunnel, a hidden archive of names carved in stone, and begins to communicate with the ghost of Emma Lou Riley — known by the daisies always tucked into her hair — who died far too young and was buried under the wrong name. As Alicia unravels Emma's identity, she also navigates ocean voyages gone wrong through the minds of strangers, witnesses grief at a graveside funeral, and wonders how the living and the dead remember each other. Meanwhile, back in Pennsylvania, Michael and Travis face juvenile court for the school prank. <em>Scar</em> is about what history leaves behind — names on stones, flowers in hair, and the marks that remain long after a person is gone.
+            When the family embarks on a road trip south, Alicia seeks Southern Comfort and peace with her cousing Daphne in the City of Savannah. Alicia's quest is interrupted as she learns about the ghosts of the Riverfront Exchange and that her cousing has a un-dead house guest who wanders from one house to another. With the help of Daphne who has her own ability, Alicia will investigate the ghosts of Savannah.  <em>Scar</em> is about what history leaves behind — names on stones, flowers in hair, and the marks that remain long after a person is gone.
           </p>
         </div>
         <div class="branch-actions">
@@ -816,7 +815,7 @@
           <h3 class="branch-title">Arc</h3>
           <p class="branch-setting">Gettysburg, Pennsylvania · The Acres &amp; Below</p>
           <p class="branch-body">
-            Back home on the acres for the Fourth of July, Alicia is settled, sun-warmed, and surrounded by friends and family. Daphne has made the trip North. The siblings are in full summer mode. But Alicia's mind-travels into Russell and Abigail take a turn toward the dangerous — leading her deeper underground than she has ever gone, into a hidden crystal cave beneath the property where the walls hold entire landscapes, the ceiling maps the night sky, and children's voices echo an old nursery rhyme. When Abigail begins to sink into the shifting ground and Russell dives after her without hesitation, the line between past and present blurs in ways Alicia cannot undo. <em>Arc</em> is the series at its most thrilling and emotional — a summer story that ends in the deep dark, and a final image that will stay with readers long after the last page. The arc of the series bends toward courage, history, and the strange, fierce love between siblings across centuries.
+            Back home on the <em>Acres</em> for the Fourth of July, Alicia is settled, sun-warmed, and surrounded by friends and family. Alicia's mind travels take a turn toward the dangerous — leading her deeper underground than she has ever gone, into a hidden crystal cave beneath the property where the walls hold entire landscapes, the ceiling maps the night sky, and children's voices echo an old nursery rhyme. The line between past and present blurs in ways Alicia cannot undo. <em>Arc</em> is place where Alicia will need the help of her family to explore the darkest part of her family tree. 
           </p>
         </div>
         <div class="branch-actions">
@@ -832,7 +831,7 @@
 <!-- THEME QUOTE -->
 <section class="theme-section">
   <div class="theme-inner">
-    <p class="theme-quote">"Mind-traveling can be so boring sometimes. Watching people fish is not my cup of tea. At least the acres look nice."</p>
+    <p class="theme-quote">"Mind traveling can be so boring sometimes. Watching people fish is not my cup of tea. At least the <em>Acres</em> look nice."</p>
     <p class="theme-attr">— Alicia, Acres: Book One</p>
   </div>
 </section>
@@ -854,20 +853,6 @@
       </div>
 
       <div class="char-card">
-        <div class="char-initial">R</div>
-        <h4 class="char-name">Russell</h4>
-        <p class="char-role">19th Century · The Acres</p>
-        <p class="char-desc">A stubborn, funny boy who can't spell his own name but would walk into the earth itself to protect his sister. Alicia's favorite mind-travel host.</p>
-      </div>
-
-      <div class="char-card">
-        <div class="char-initial">Ab</div>
-        <h4 class="char-name">Abigail</h4>
-        <p class="char-role">19th Century · The Acres</p>
-        <p class="char-desc">Russell's quick-tongued younger sister. Smarter than anyone gives her credit for, and brave far beyond what her era would expect of her.</p>
-      </div>
-
-      <div class="char-card">
         <div class="char-initial">M</div>
         <h4 class="char-name">Mason</h4>
         <p class="char-role">Alicia's Older Brother</p>
@@ -882,24 +867,10 @@
       </div>
 
       <div class="char-card">
-        <div class="char-initial">Mi</div>
-        <h4 class="char-name">Michael</h4>
-        <p class="char-role">Love Interest</p>
-        <p class="char-desc">Thoughtful and quietly romantic. He arranged an "A" in forks across the school lawn — and faced the consequences with dignity when Alicia kept his secret.</p>
-      </div>
-
-      <div class="char-card">
         <div class="char-initial">D</div>
         <h4 class="char-name">Daphne</h4>
         <p class="char-role">Cousin · Savannah, GA</p>
         <p class="char-desc">Fearless, hilarious, and an eager partner in ghost-hunting. She lives in a haunted house and treats it as a perk rather than a problem.</p>
-      </div>
-
-      <div class="char-card">
-        <div class="char-initial">E</div>
-        <h4 class="char-name">Emma "Daisy" Riley</h4>
-        <p class="char-role">Ghost · Savannah</p>
-        <p class="char-desc">Identified by the daisies always tucked into her hair. She wanders Daphne's historic Savannah home — and Alicia promises to plant seeds for her in the North too.</p>
       </div>
 
     </div>
@@ -912,9 +883,9 @@
     <div class="author-avatar">SQ</div>
     <div class="author-text">
       <p class="section-label">About the Author</p>
-      <h2 class="author-name">Shane Michael Quaker</h2>
+      <h2 class="author-name">Quaker</h2>
       <div class="section-divider"></div>
-      <p class="author-bio">Shane Michael Quaker is the author of The Acres Series, a coming-of-age trilogy set in Gettysburg, Pennsylvania and Savannah, Georgia. The series follows Alicia, a teenager with the rare ability to mind-travel through time and consciousness, as she uncovers history, family secrets, and the mysteries of the acres she calls home.</p>
+      <p class="author-bio">Shane is the author of The Acres Series. The story began with an interest in the Sandlot then took a different course with the birth of his daughter. Through the years, the story continued towards a conclusion set on the 5th of July.</p>
     </div>
   </div>
 </section>
@@ -927,7 +898,7 @@
     <li><a href="#characters">Characters</a></li>
     <li><a href="#author">Author</a></li>
   </ul>
-  <p class="footer-copy">© 2025 Shane Michael Quaker. All rights reserved.</p>
+  <p class="footer-copy">© 2025 Quaker. All rights reserved.</p>
 </footer>
 
 </body>
